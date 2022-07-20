@@ -34,7 +34,7 @@ There is a command execution vulnerability in wavlink, through which an attacker
 
 #### Proof of Concept
 
-![image-20220704141147087](/Users/w0lf/Desktop/Wavlink/image-20220704141147087.png)
+![image-20220704141147087](./image-20220704141147087.png)
 
 ![image-20220720101113802](./image-20220720101113802.png)
 
